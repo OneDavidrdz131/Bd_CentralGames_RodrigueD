@@ -1,2 +1,3 @@
-# Bd_CentralGames_RodrigueD
+ #Empresa ventade videojuegos
+ ##David Rodriguez
 Crud de mi pagina llamada CentralGames
