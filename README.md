@@ -1,3 +1,9 @@
  #Empresa ventade videojuegos
+ 
  ##David Rodriguez
-Crud de mi pagina llamada CentralGames
+ 
+ ###Tabla videojuegos
+
+ ###Base de datos en phpmyadmin
+
+###
